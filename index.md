@@ -8,6 +8,8 @@ I work with clients to develop unique data science solutions that are tailored t
 
 Past and current projects range from machine learning on aggregated news article text to algorithms that automatically monitor IoT telemetry.
 
+<br/>
+
 
 ## My Background
 
