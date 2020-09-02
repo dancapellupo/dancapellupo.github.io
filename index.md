@@ -34,4 +34,16 @@ You can find my articles [here](https://www.rtinsights.com/author/dcapellupo/).
 I have been working with data for over a decade, from studying distant black
 holes to designing predictive algorithms in the financial and IoT sectors.
 
+Here is a summary of my CV/resume:
+
+|      |      |
+| :--- | ---: |
+| Data Science Consultant | February 2019 to Present |
+
+| Data Scientist, Aston Capital Management | January 2018 to December 2018 |
+
+Data Scientist, RTInsights  July 2017 to January 2018
+
+Postdoctoral Fellow, McGill University,  August 2015 to June 
+
 
