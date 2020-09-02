@@ -34,6 +34,7 @@ You can find my articles [here](https://www.rtinsights.com/author/dcapellupo/).
 I have been working with data for over a decade, from studying distant black
 holes to designing predictive algorithms in the financial and IoT sectors.
 
+|      |      |
 | :--- | ---: |
 | Data Science Consultant | Feb 2019 to Present |
 | Data Scientist, Aston Capital Management | Jan 2018 to Dec 2018 |
