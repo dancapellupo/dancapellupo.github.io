@@ -27,6 +27,8 @@ publication [RTInsights](https://www.rtinsights.com/).
 
 You can find my articles [here](https://www.rtinsights.com/author/dcapellupo/).
 
+I also recently started [a blog on Substack](https://featuringdata.substack.com/).
+
 ---
 
 ## My Background
