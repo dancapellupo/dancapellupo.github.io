@@ -22,10 +22,9 @@ Find and connect with me on [LinkedIn](https://www.linkedin.com/in/dcapellupo/).
 
 ## Writing about Data Science
 
-I write about topics in data science, machine learning, and AI for the online
-publication [RTInsights](https://www.rtinsights.com/).
+I write about topics in data science, machine learning, and AI.
 
-You can find my articles [here](https://www.rtinsights.com/author/dcapellupo/).
+You can find my articles on [RTInsights.com](https://www.rtinsights.com/author/dcapellupo/) and [Medium.com](https://medium.com/@daniel.capellupo).
 
 I also recently started [a blog on Substack](https://featuringdata.substack.com/?no_cover=true).
 
