@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Data Science Consultant
+## Dan Capellupo | Data Scientist
 
-I am a freelance data scientist, working with clients to develop unique data
+I am a senior data scientist and manager at Deloitte.
+
+Formally, I was a freelance data scientist, working with clients to develop unique data
 science solutions that are tailored to each organization’s specific needs and
 desired business outcomes. I combine statistical data processing and analytics
 with the most current machine learning and AI techniques.
