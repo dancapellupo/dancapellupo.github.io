@@ -4,9 +4,11 @@ layout: default
 
 ## Dan Capellupo | Data Scientist
 
-I am a senior data scientist and manager at Deloitte.
+I am a senior data scientist, with experience working in different industries,
+both as a full-time employee (most recently as a senior data scientist and
+manager Deloitte) and as a freelance data scientist.
 
-Formally, I was a freelance data scientist, working with clients to develop unique data
+AS a freelance data scientist, I have worked with clients to develop unique data
 science solutions that are tailored to each organization’s specific needs and
 desired business outcomes. I combine statistical data processing and analytics
 with the most current machine learning and AI techniques.
@@ -14,7 +16,7 @@ with the most current machine learning and AI techniques.
 Past and current projects range from machine learning on aggregated news
 article text to algorithms that automatically monitor IoT telemetry.
 
-Find and connect with me on [LinkedIn](https://www.linkedin.com/in/dcapellupo/).
+Find and connect with me on [LinkedIn](https://www.linkedin.com/in/dcapellupo/)!
 
 ---
 
