@@ -8,7 +8,7 @@ I am a senior data scientist, with experience working in different industries,
 both as a full-time employee (most recently as a senior data scientist and
 manager Deloitte) and as a freelance data scientist.
 
-AS a freelance data scientist, I have worked with clients to develop unique data
+As a freelance data scientist, I have worked with clients to develop unique data
 science solutions that are tailored to each organization’s specific needs and
 desired business outcomes. I combine statistical data processing and analytics
 with the most current machine learning and AI techniques.
